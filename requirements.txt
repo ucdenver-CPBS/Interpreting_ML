@@ -12,7 +12,7 @@ lime==0.1.1.36
 Markdown==3.1.1
 matplotlib==3.0.2
 mlxtend==0.17.0
-notebook==5.2.2
+notebook==5.7.8
 numpy==1.16.4
 pandas==0.24.2
 PDPbox==0.2.0
